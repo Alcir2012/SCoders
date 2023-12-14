@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-import pysimplegui as sg
-
+import PySimpleGUI as sg
 sg.theme('DarkAmber')   # Add a touch of color
 # All the stuff inside your window.
 layout = [  [sg.Text('Lista de tarefas a fazer')],
