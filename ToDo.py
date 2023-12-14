@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import pysimplegui as sg
 
 sg.theme('DarkAmber')   # Add a touch of color
