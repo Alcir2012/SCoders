@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 while True:
     numero = int(input('Digite o primeiro número '))
     numero2= int(input('Digite um segundo número '))
